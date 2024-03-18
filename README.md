@@ -1,5 +1,7 @@
 # Metodologia Ágil
 
+<p align="center"> <img src= "https://kbase.com.br/novo/wp-content/uploads/2023/09/metodos-ageis-02.png"> </p>
+
 ### O que é?
 
 - Conjunto de estratégias e práticas para o desenvolvimento e gestão de projetos, que busca dar maior velocidade à conclusão de processos e tarefas.
@@ -13,7 +15,8 @@ O Manifesto Ágil é uma declaração de valores e princípios essenciais para o
 
 1. **_Indivíduos e interações mais que processos e ferramentas:_** destaca a importância das pessoas e de suas interações na produção de software de qualidade. 
 
-2. **_Software em funcionamento mais que documentação abrangente:_** destaca a importância de ter um software funcional e em execução como medida de progresso. Embora a documentação seja necessária, o principal foco deve ser em desenvolver software que atenda às necessidades do cliente.
+2. **_Software em funcionamento mais que documentação abrangente:_** destaca a importância de ter um software funcional e em execução como medida de pr
+ogresso. Embora a documentação seja necessária, o principal foco deve ser em desenvolver software que atenda às necessidades do cliente.
 
 3. **_Colaboração com o cliente mais que negociação de contratos:_** destaca a importância da colaboração próxima com o cliente ao longo do processo de desenvolvimento. 
 
