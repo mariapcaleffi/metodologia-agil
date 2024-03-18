@@ -24,7 +24,7 @@ ogresso. Embora a documentação seja necessária, o principal foco deve ser em 
 
 **_Princípios_**
 
-<p align="center"> <img src= "principios.png"> </p>
+<p align="center"> <img style='width: 450px' src= "principios.png"> </p>
 
 
 <p align="center"> <img style='width: 340px' src= "METODOLOGIA.png"> </p>
