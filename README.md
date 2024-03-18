@@ -29,7 +29,7 @@ ogresso. Embora a documentação seja necessária, o principal foco deve ser em 
 
 <p align="center"> <img style='width: 340px' src= "METODOLOGIA.png"> </p>
 
-<center>
+<p align="center">
 
 |**Normal**|**Ágil**|
 |-|:-:|
@@ -38,7 +38,7 @@ ogresso. Embora a documentação seja necessária, o principal foco deve ser em 
 |Cronograma detalhado|Cronograma em blocos de tempo|
 |Orçamento definido|Orçamento distribuído conforme os resultados|
 
-</center>
+</p>
 
 ### Onde usar?
 
