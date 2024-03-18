@@ -24,7 +24,7 @@ ogresso. Embora a documentação seja necessária, o principal foco deve ser em 
 
 **_Princípios_**
 
-<p align="center"> <img style='width: 450px' src= "principios.png"> </p>
+<p align="center"> <img style='width: 500px' src= "principios.png"> </p>
 
 
 <p align="center"> <img style='width: 340px' src= "METODOLOGIA.png"> </p>
@@ -51,8 +51,18 @@ Lojas, bancos, faculdades e até agências governamentais podem usar a Metodolog
 **_Comunicação_**
 As tecnologias de comunicação são profundamente impactadas pelas metodologias ágeis. Um plano de marketing baseado em ciclos de atualização permite avaliar como a mensagem da empresa está sendo recebida pelo público e testar linguagens, formatos ou plataformas.
 
-|**Vantagens**|**Desvantagens**|
-|-|:-:|
-|||
+### Vantagens e Desvantagens:
 
+**_Vantagens_**
 
+- Quais são as vantagens dos métodos ágeis?
+- As entregas são mais rápidas
+- Métodos ágeis deixam o software mais flexível
+- A boa qualidade do software
+
+**_Desvantagens_**
+
+- Uma das únicas desvantagens do método ágil é que a equipe deve ser muito especialista no método, o que pode ser difícil de conseguir.
+
+## Conclusão
+No contexto atual, as práticas de gestão de projetos tradicionais precisam se adequar às novas exigências do mercado, que cobra a entrega de valor ao cliente de forma otimizada, transparente, mais "rápida", com entregas menores e com frequência, e colaborativa. A metodologia Ágil é uma excelente solução para eliminar gaps nos projetos e potencializar as entregas, de modo que gere mais valor ao cliente e à organização executora. Conclusão: maior satisfação do cliente.
