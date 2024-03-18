@@ -1,4 +1,4 @@
-# Metodologia Ágil
+<p align="center"> <img src= "metagil.png"> </p>
 
 <p align="center"> <img src= "https://kbase.com.br/novo/wp-content/uploads/2023/09/metodos-ageis-02.png"> </p>
 
@@ -24,20 +24,10 @@ ogresso. Embora a documentação seja necessária, o principal foco deve ser em 
 
 **_Princípios_**
 
-1. A prioridade é a satisfação do cliente por meio da entrega contínua do software;
-2. Uma mudança de requisitos pode ser aceita para garantir a entrega do cliente;
-3. As entregas dos softwares devem ser constantes;
-4. A cooperação entre os desenvolvedores e quem tem conhecimento do negócio deve ser diária;
-5. Para que projetos sejam realizados com excelência é necessário manter os indivíduos motivados e confiantes;
-6. Deve existir uma comunicação direta;
-7. O progresso só pode ser medido através de um sistema que funcione;
-8. Projetos ágeis promovem ambientes saudáveis;
-9. Uma atenção sobre a técnica e o design dá agilidade;
-10. É fundamental manter a simplicidade;
-11. Projetos de excelência surgem de times auto-organizados;
-12. Fazer reuniões constantes em equipe para encontrar meios de serem mais efetivos.
+<p align="center"> <img src= "principios.png"> </p>
 
-### Diferenças entre a metodologia normal e ágil
+
+<p align="center"> <img style='width: 340px' src= "METODOLOGIA.png"> </p>
 
 |**Normal**|**Ágil**|
 |-|:-:|
