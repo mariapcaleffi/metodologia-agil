@@ -29,12 +29,16 @@ ogresso. Embora a documentação seja necessária, o principal foco deve ser em 
 
 <p align="center"> <img style='width: 340px' src= "METODOLOGIA.png"> </p>
 
+<center>
+
 |**Normal**|**Ágil**|
 |-|:-:|
 |Previsibilidade de resultados|Mudanças constantes a partir das revisões|
 |Projeto com escopo linear|Escopo baseado em ciclos de utilização|
 |Cronograma detalhado|Cronograma em blocos de tempo|
 |Orçamento definido|Orçamento distribuído conforme os resultados|
+
+</center>
 
 ### Onde usar?
 
