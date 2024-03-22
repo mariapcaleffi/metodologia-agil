@@ -2,6 +2,9 @@
 
 <p align="center"> <img src= "https://kbase.com.br/novo/wp-content/uploads/2023/09/metodos-ageis-02.png"> </p>
 
+### História
+A metodologia ágil teve origem no final da década de 1990, como uma alternativa aos métodos tradicionais de gerenciamento de projetos. Durante esse período, muitas empresas estavam insatisfeitas com os resultados obtidos por meio dos métodos cascata, nos quais todas as fases do projeto eram definidas antecipadamente e seguidas de forma linear.
+
 ### O que é?
 
 - Conjunto de estratégias e práticas para o desenvolvimento e gestão de projetos, que busca dar maior velocidade à conclusão de processos e tarefas.
