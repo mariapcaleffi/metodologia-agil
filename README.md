@@ -66,3 +66,10 @@ As tecnologias de comunicação são profundamente impactadas pelas metodologias
 
 ## Conclusão
 No contexto atual, as práticas de gestão de projetos tradicionais precisam se adequar às novas exigências do mercado, que cobra a entrega de valor ao cliente de forma otimizada, transparente, mais "rápida", com entregas menores e com frequência, e colaborativa. A metodologia Ágil é uma excelente solução para eliminar gaps nos projetos e potencializar as entregas, de modo que gere mais valor ao cliente e à organização executora. Conclusão: maior satisfação do cliente.
+
+
+### INTEGRANTES
+1. Heloísa Bordini Mendonça
+2. Maria Clara Pavan Caleffi
+3. Milena Felisbelo da Silva
+4. Miriam Bordini Mendonça
