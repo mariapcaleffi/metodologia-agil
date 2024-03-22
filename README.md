@@ -58,10 +58,10 @@ As tecnologias de comunicação são profundamente impactadas pelas metodologias
 
 **_Vantagens_**
 
-- Quais são as vantagens dos métodos ágeis?
 - As entregas são mais rápidas
 - Métodos ágeis deixam o software mais flexível
 - A boa qualidade do software
+- Mais atendimento do cliente.
 
 **_Desvantagens_**
 
